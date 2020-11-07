@@ -134,7 +134,7 @@ while True:
 	
 	else:
 		py.speak("this requirement is not available!! sorry for that!! go for next requirement")
-		print("Don't support.")
+		print("Don't support")
 
 
 
